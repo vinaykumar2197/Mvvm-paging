@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Mvvm Retrofit Tmdb </string>
+
+    <string name="api_key">b133c1180758351bf9a6631f15a7457f</string>
+
+</resources>
